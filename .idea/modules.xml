@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/awesome-python3-webapp.iml" filepath="$PROJECT_DIR$/.idea/awesome-python3-webapp.iml" />
       <module fileurl="file://F://awesome-python3-webapp/../../RealStuff/.idea/awesome-python3-webapp.iml" filepath="F://awesome-python3-webapp/../../RealStuff/.idea/awesome-python3-webapp.iml" />
     </modules>
   </component>
